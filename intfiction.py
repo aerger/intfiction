@@ -4,6 +4,9 @@ from player import Player
 
 # __author__ = 'alex' 
 
+# Trial intfic project w/ kids
+# just to see what they can do
+
 #room_num = 0
 
 world = []
