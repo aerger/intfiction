@@ -1,0 +1,14 @@
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/misc.xml
+.idea/intfiction.iml
+.idea/encodings.xml
+.idea/scopes/scope_settings.xml
+.vscode/launch.json
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+__pycache__/intfiction.cpython-36.pyc
+__pycache__/player.cpython-36.pyc
+__pycache__/room.cpython-36.pyc
+.idea/.name
+.idea/modules.xml
